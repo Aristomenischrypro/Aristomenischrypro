@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, 👋
+## I'm Aristomenis Chrysafis-Progopoulos.
+## Currently working on macro-finance data and projects in behavioral economics and development.
+## Aspiring to pursue a PhD in Economics.
+## Follow me on Twitter: @Aris_Chrysafis.
 
 <!--
 **Aristomenischrypro/Aristomenischrypro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
